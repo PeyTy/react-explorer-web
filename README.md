@@ -7,3 +7,5 @@ Only for demonstration purposes
 ![Screenshot](public/screenshot.png?raw=true)
 
 Design and copyright by Microsoft
+
+Web based desktop Windows 10 recreated in HTML and CSS for browser
